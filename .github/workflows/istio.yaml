@@ -5,6 +5,10 @@ on:
     branches:
     - main
 
+<<<<<<< HEAD
+=======
+env:
+>>>>>>> 775ea59ad7c90c762994db2eb72c4a8f716a9186
   EKS_CLUSTER: dev #Here we have to enter the correct cluster name
   EKS_REGION: us-east-2 #Here we have to change the region if max number of VPC is 5 issue appears
 
