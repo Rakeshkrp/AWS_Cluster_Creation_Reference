@@ -7,7 +7,6 @@ terraform {
     }
   }
 
-
   backend "remote" {
     organization = "SREYODEV" #Here we to choose the correct Organization
 
