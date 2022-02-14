@@ -11,7 +11,7 @@ env:
 
 jobs:
   Job1:
-    name: Setup Dev Istio
+    name: Setup Dev Istio  # a user-defined comment to understand the job to be perfomed.
     runs-on: ubuntu-latest
 
     steps:
